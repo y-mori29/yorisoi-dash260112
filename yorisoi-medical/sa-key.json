@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "yorisoi-medical",
+  "private_key_id": "8cff1b583bf19ce156b78b65f4f560f496c3522e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCyebokSQlor5Bg\nKk1fUAYup+2TlvT+nnzmwMyPDIkP3LXtNSuCugK4MghIXjYcW1i/ScaWmhu7mXRH\niAs4eUgS+nZ7Tk+EoM3V9T1FGZqIRRSBr3Q+F6bMa5pHhvXtnGJ1435yT7kFgSIX\n3C6lMOSoIfEd8EcFUoH+inltAY47RJRn1F8VsulnfjhStBvzFpz/e/t0PxexmNcA\nom3DWMVQz8d7BIEOAOjXRnpHST5lI0KCmJW+HWxWR/JtB9h+hB0s38rV7t7YVD2X\n+D2txyB1m094q48jW2BGxzkMP5XTbGP4Vjg4T3s0yer41cnIXIn/FNIAC62xxcGO\nkeESpZIPAgMBAAECggEACyEOu8HXgFunmReKM5ioighBXE6xgEnJvWnlrOs5229b\n44AenSGUQdV83BEOjBN2I+zUdq0CxbP6outCJ9yy4zFoafqmzWe+7h9DbtJQkebH\nhz61n5mXS8VPSDPg6gGHx5TOsboe7iTwnKRHlFge1LfTx+t6bO6JhKHbPdzhovhi\nWEUSImeAzgI79l0iXy3shAvQCuEMCLNfrbkfpkKqWbtQJevnfFvepsYs1gyzixLK\nzx/wk7YudDNz0HJb3BIWW0PLSIxCY1Jgo4t9OUQlD1YxFMfJV8o7QxPAwq65/LuT\nr32otLrspF/swV7gXU6sZoF0WvOta+GXThOKodHUQQKBgQDsZXTrlLJxj/WrjYu0\ngPMIFLHT1vcYxXdEgBRW2Uy6gTOxKUtR53CtOASvfhB85GRwdF8BkqsI/UjRo2kr\n59/Z4dAdyMqJeP+Dofy4CRgFKVM2a6TfPsgQpLdcZ9szQ2yZRvt1hXzM04zh/Bqj\nl3sjoBLDu7SEOpklEG67jErrCQKBgQDBRqX2KvQSmZ56Bfys1ZjeNgYegjweuAyq\n5+g1hcHVv6LRgH5LnZ//Ucde8WJAOO+QXpHMZykV8GObJ/LuK1vc5FwGJk+qV5lN\nQntuoIFwxnCqB2AsyYpZkuwfuePM1qVPOD6ZyhDSATv2R8Ij1zyAMIlEsux6mDpc\nM0nw0dSiVwKBgQDITdN7RjzJYu0MVtx4rwa+4yIm2K/5CmDb5xbU3D1ajt2pEM9k\ncBIWhC/cL5py6Od+LezOnWNVM6C/GZKlBE22BdPdWOTdBWykMd68ZeA3h2Od6ioC\ni+TjzV4c61deIZRkcDPjyZ8Mw3hNh9teoJ1Te3BK78KuhCR9tmXNfruAWQKBgAZP\npEOxi17AHWimoWWTY/Z9lR2R6xylreQ2xmJZB8dPBqYIqBcYAo13wibbgvXN5iS0\nsdYW2ESbIOWEHG6ig9Fms4qP3bIWQi8/qIAoRZHFKRCkRQOxYQ8juQogK8wYhjVc\nBM9IxdvVpnuYREKfWJ5m91SC8y3doqo4EoYGlAbpAoGAYTovWTogAW7xmi1QkWDz\n5ZbBK7OLdW4Bn4ttpgRLTR+Xlo067Hk6ivqZ+TEuFH1FRDefM1/TN35vh8qWC4Mr\nXIU3gNzEMdBwWoQ65DguJMzcWQbxcIjLatJVLai6BnQdGr5xD7Mze7Cj1UdkqWpw\nvg000RzFX9rqAc4EIAFtzTo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "yorisoi-run@yorisoi-medical.iam.gserviceaccount.com",
+  "client_id": "109327574830463732797",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/yorisoi-run%40yorisoi-medical.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -1,0 +1,3 @@
+name,kana,birthDate,gender,facility_id,room_number
+新規 患者A,シンキ カンジャA,1950-01-01,male,f_001,301
+新規 患者B,シンキ カンジャB,1955-05-05,female,f_001,302

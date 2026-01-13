@@ -1,0 +1,5 @@
+{
+  "name": "Yorisoi Pro (Provider View)",
+  "description": "Medical provider dashboard for viewing SOAP notes, pharmacy focus, and clinical alerts.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,7 @@
+{
+  "name": "CareVoice Rec",
+  "description": "A nursing care recording application for facility and patient management.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
